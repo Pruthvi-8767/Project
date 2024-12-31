@@ -101,13 +101,8 @@ This project uses the [COVID-19 API](https://disease.sh/) for fetching data. Ens
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
----
 
 ## Author
 
-Developed by [Your Name].
+Developed by [Sinare Darshan Anil And Team].
 
