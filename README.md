@@ -104,5 +104,5 @@ This project uses the [COVID-19 API](https://disease.sh/) for fetching data. Ens
 
 ## Author
 
-Developed by [Sinare Darshan Anil And Team].
+Developed by [Sinare Darshan And Team].
 
